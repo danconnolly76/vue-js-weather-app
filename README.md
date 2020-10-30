@@ -1,3 +1,4 @@
+This is a simple weather app that contians a search box. Just enter in a city name into the search box and the temperature will be displayed to screen.
 # weather-app
 
 ## Project setup
